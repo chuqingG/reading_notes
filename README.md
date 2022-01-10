@@ -4,8 +4,7 @@
 
 ### CPU optimizations
 
-- Optimizing CNN Model Inference on CPUs
-  - [paper link](https://www.usenix.org/system/files/atc19-liu-yizhi.pdf)
+- Optimizing CNN Model Inference on CPUs, [*paper link*](https://www.usenix.org/system/files/atc19-liu-yizhi.pdf)
 
 ### RNN
 
