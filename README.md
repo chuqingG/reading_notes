@@ -9,6 +9,6 @@
 ### RNN
 
 - [Persistent RNNs](./rnn/01_persistent_rnn.md), [*blog link*](http://svail.github.io/persistent_rnns/)
-- Optimizing RNNs with Differentiable Graphs, [*blog link*](http://svail.github.io/diff_graphs/)
-- Optimizing RNN performance, [*blog link*](http://svail.github.io/rnn_perf/)
+- [Optimizing RNN performance](./rnn/03_optimizing_rnn_performance.md), [*blog link*](http://svail.github.io/rnn_perf/)
+- [Optimizing RNNs with Differentiable Graphs](./rnn/02_optimizing_rnn_with_diff_graphs.md), [*blog link*](http://svail.github.io/diff_graphs/)
 -  Echo: Compiler-based GPU Memory Footprint Reduction for LSTM RNN Training, [*paper link*](http://www.cs.toronto.edu/~pekhimenko/Papers/Echo-ISCA_20.pdf)
